@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @bageshbelavi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning BE 2nd year
-- 💞️ I’m looking to collaborate on ...
-- 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```markdown
+# Bagesh Belavi
+### Python Full Stack Developer
 
-<!---
-bageshbelavi/bageshbelavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science Engineering graduate interested in software development and building practical web applications. Skilled in Python, Django, SQL, HTML, CSS, and JavaScript. Passionate about learning new technologies and developing efficient, user-friendly solutions.
+
+- **GitHub:** [bageshbelavi](https://github.com/bageshbelavi)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/bagesh-belavi)
+- **Email:** bageshbelavi@gmail.com
+```
